@@ -9,7 +9,7 @@ import Footer from './componentes/Footer';
 
 function App() {
   // para que se muestre el formulario
-  const [mostrarFormulario, actualizarMostrar] = useState(true)
+  const [mostrarFormulario, actualizarMostrar] = useState(false)
   const [colaboradores, actualizarColaboradores] = useState([{
     id: uuid(),
     equipo: "Front End",
