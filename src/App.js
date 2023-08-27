@@ -23,7 +23,7 @@ function App() {
     equipo: "Programación",
     foto: "https://github.com/Exanimum18.png",
     nombre: "Santiago Barón",
-    puesto: "Desarrolladora de software e instructora",
+    puesto: "Desarrollador de software e instructor",
     fav: true
   },
   {
